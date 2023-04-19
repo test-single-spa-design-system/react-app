@@ -1,0 +1,13 @@
+button.reactButton {
+  background-color: aquamarine;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 14px;
+
+  cursor: pointer;
+}
+
+button.reactButton span {
+  font-weight: bold;
+  color: #333;
+}
